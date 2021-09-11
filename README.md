@@ -1,5 +1,8 @@
 # minecraft-alpha-1.0.0
-автор https://gist.github.com/ScottoMotto
+
+автор
+https://gist.github.com/ScottoMotto
+https://gist.github.com/ScottoMotto/a962fd223c543f9d61f77469140b6eed
 
 MultiMC Omniarchive Base MC Versions
 
